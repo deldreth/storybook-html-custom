@@ -1,6 +1,6 @@
 {
   "name": "web",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Devin Eldreth <devin.eldreth@gmail.com>",
   "homepage": "",
@@ -27,7 +27,7 @@
   "dependencies": {
     "@skatejs/define": "^0.0.1",
     "@skatejs/element-react": "^0.0.1",
-    "components": "^0.0.0",
+    "components": "^1.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
