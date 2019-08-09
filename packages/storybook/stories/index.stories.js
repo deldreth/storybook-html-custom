@@ -1,7 +1,7 @@
 import { document, console } from "global";
 import { storiesOf } from "@storybook/html";
 
-import "web/dist/component.js";
+import "web/dist/Button/component.js";
 
 storiesOf("Demo", module).add(
   "button",
